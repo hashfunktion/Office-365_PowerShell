@@ -1,4 +1,4 @@
-# [Office 365 license assignment via PowerShell](h)
+# [Office 365 license assignment via PowerShell](https://github.com/hashfunktion/Office-365_PowerShell/tree/master/Office-365-license-assignment)
 
 ### Content
 * O365-user-query.ps1 - Script to query users by Attributes
