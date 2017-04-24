@@ -7,5 +7,4 @@
 
 
 #### Script options
-* -DisabledPlans - Option to disable plans when you don´t wont aktivate all plans to the users
-  * Via PowerShell to get aktive plans - Get-MsolAccountSku | Where-Object {$_.SkuPartNumber -eq "ENTERPRISEPACK"} | ForEach-Object {$_.ServiceStatus}
+See Comments in the Scripts pleas.

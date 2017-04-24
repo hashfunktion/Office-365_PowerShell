@@ -1,4 +1,16 @@
-# Script to enable O365 Licenses to a list of user
+# Script to enable O365 Licenses to a list of user, that is create with O365-user-query.ps1
+# !- Run first --> O365-user-query.ps1 to create the userlist! -!
+#
+# Jesse Reppin (C) - 2017
+# V1.0 - First Release
+#
+# Options to edit:
+#   Replace "TENANTNAME" with your TENANTNAME.
+#   Replace "ENTERPRISEPACK" with your type of license
+#   Replace "DE" with your locals
+#   Edit -DisabledPlans to chance the plans that should be disabled
+#
+
 Connect-MsolService
 
 $ASID = "TENANTNAME:ENTERPRISEPACK"
