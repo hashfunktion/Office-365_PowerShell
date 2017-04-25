@@ -8,3 +8,8 @@
 
 #### Script options
 See Comments in the Scripts pleas.
+
+
+#### Helpful thinks... 
+* Office 365 XML Configurator - https://officedev.github.io/Office-IT-Pro-Deployment-Scripts/XmlEditor.html
+* Office 365 Powershell Scripts - https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts
