@@ -3,7 +3,7 @@
 ### Content
 * O365-user-query.ps1 - Script to query users by Attributes
 * O365-assign-license.ps1 - Script to assign the spezified users
-
+* O365-remove-license-disabled-user.ps1 - Script that query disabled users with aktive license and disable the license
 
 
 #### Script options
